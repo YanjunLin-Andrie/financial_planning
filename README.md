@@ -22,7 +22,7 @@ This project leverages python 3.7 with the following packages:
 
 * [pathlib](https://docs.python.org/3/library/pathlib.html) - For providing paths of files and directories
 
-* [numpy](https://numpy.org/doc/stable/user/absolute_beginners.html) - To perform mathmatical calculations (squareroot).
+* [numpy](https://numpy.org/doc/stable/user/absolute_beginners.html) - To perform mathmatical calculations (squareroot)
 
 * [alpaca_trade_api](https://github.com/alpacahq/alpaca-trade-api-python) - To import real time market data
 
